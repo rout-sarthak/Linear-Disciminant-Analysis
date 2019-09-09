@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: sarth
+@author: sarthak
 """
 
 #Linear Discriminant Analysis (LDA) with Logistic Regression
